@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Template Name: Moderna
+Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
